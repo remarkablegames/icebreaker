@@ -1,6 +1,6 @@
-# vite-preact-tailwind-template
+# icebreaker
 
-[![build](https://github.com/remarkablemark/vite-preact-tailwind-template/actions/workflows/build.yml/badge.svg)](https://github.com/remarkablemark/vite-preact-tailwind-template/actions/workflows/build.yml)
+[![build](https://github.com/remarkablemark/icebreaker/actions/workflows/build.yml/badge.svg)](https://github.com/remarkablemark/icebreaker/actions/workflows/build.yml)
 
 Vite Preact Tailwind template.
 
@@ -9,8 +9,8 @@ Vite Preact Tailwind template.
 Clone the repository:
 
 ```sh
-git clone https://github.com/remarkablemark/vite-preact-tailwind-template.git
-cd vite-preact-tailwind-template
+git clone https://github.com/remarkablemark/icebreaker.git
+cd icebreaker
 ```
 
 Install the dependencies:
