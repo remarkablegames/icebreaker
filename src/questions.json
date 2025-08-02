@@ -571,10 +571,6 @@
   },
 
   {
-    "question": "Who is the better businessman or business woman and why? (Example: Justin Timberlake or Justin Bieber?)",
-    "tags": ["best"]
-  },
-  {
     "question": "What was the worst job you ever had?",
     "tags": ["personal", "work-related"]
   },
