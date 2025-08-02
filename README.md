@@ -1,15 +1,15 @@
-# icebreaker
+# Icebreaker
 
-[![build](https://github.com/remarkablemark/icebreaker/actions/workflows/build.yml/badge.svg)](https://github.com/remarkablemark/icebreaker/actions/workflows/build.yml)
+[![build](https://github.com/remarkablegames/icebreaker/actions/workflows/build.yml/badge.svg)](https://github.com/remarkablegames/icebreaker/actions/workflows/build.yml)
 
-Vite Preact Tailwind template.
+🧊 Icebreaker questions
 
 ## Install
 
 Clone the repository:
 
 ```sh
-git clone https://github.com/remarkablemark/icebreaker.git
+git clone https://github.com/remarkablegames/icebreaker.git
 cd icebreaker
 ```
 
