@@ -12,10 +12,6 @@
     "tags": ["quirky"]
   },
   {
-    "question": "What’s your most used emoji?",
-    "tags": ["quirky"]
-  },
-  {
     "question": "Would you rather have invisibility or flight?",
     "tags": ["quirky"]
   },
@@ -58,7 +54,7 @@
   },
   {
     "question": "Coffee or tea?",
-    "tags": ["food & drink", "quickfire"]
+    "tags": ["food & drink", "quickfire", "this or that"]
   },
   {
     "question": "What’s the weirdest food you’ve ever eaten?",
@@ -376,7 +372,7 @@
   },
 
   {
-    "question": "Do you love working from home or would you rather be in the office? Is there a balance of both that you like best?",
+    "question": "Do you love working from home or would you rather be in the office?",
     "tags": ["virtual", "zoom"]
   },
   {
@@ -421,7 +417,7 @@
   },
   {
     "question": "Are you an early bird or night owl?",
-    "tags": ["virtual", "zoom"]
+    "tags": ["quickfire", "this or that"]
   },
   {
     "question": "What about showers? Do you prefer morning or night?",
@@ -448,7 +444,7 @@
     "tags": ["virtual", "zoom"]
   },
   {
-    "question": "Best book you’ve ever read?",
+    "question": "Best book you’ve read?",
     "tags": ["virtual", "zoom"]
   },
   {
@@ -473,15 +469,7 @@
   },
 
   {
-    "question": "What’s one article of clothing that someone could wear that would make you walk out on a date with them?",
-    "tags": ["funny"]
-  },
-  {
     "question": "The zombie apocalypse is coming, who are 3 people you want on your team?",
-    "tags": ["funny"]
-  },
-  {
-    "question": "What’s your most used emoji?",
     "tags": ["funny"]
   },
   {
@@ -489,15 +477,11 @@
     "tags": ["funny"]
   },
   {
-    "question": "What was the worst haircut you ever had?",
+    "question": "What’s the worst haircut you’ve ever gotten?",
     "tags": ["funny"]
   },
   {
     "question": "Who was your childhood actor/actress crush?",
-    "tags": ["funny"]
-  },
-  {
-    "question": "If you were a wrestler what would be your entrance theme song?",
     "tags": ["funny"]
   },
   {
@@ -513,14 +497,6 @@
     "tags": ["funny"]
   },
   {
-    "question": "What did you name your first car?",
-    "tags": ["funny"]
-  },
-  {
-    "question": "Does your current car have a name? What’s it?",
-    "tags": ["funny"]
-  },
-  {
     "question": "You have your own late night talk show, who do you invite as your first guest?",
     "tags": ["funny"]
   },
@@ -530,10 +506,6 @@
   },
   {
     "question": "If you were famous, what would you be famous for?",
-    "tags": ["funny"]
-  },
-  {
-    "question": "What song would you pick to sing at the karaoke?",
     "tags": ["funny"]
   },
   {
@@ -561,10 +533,6 @@
     "tags": ["funny"]
   },
 
-  {
-    "question": "What’s the best piece of advice you’ve ever been given?",
-    "tags": ["great"]
-  },
   {
     "question": "When you die, what do you want to be remembered for?",
     "tags": ["great"]
@@ -639,10 +607,6 @@
     "tags": ["personal", "work-related"]
   },
   {
-    "question": "If you can have any fictional character as your imaginary friend, who do you choose and why?",
-    "tags": ["entertainment"]
-  },
-  {
     "question": "What would your superpower be and why?",
     "tags": ["best"]
   },
@@ -715,10 +679,6 @@
     "tags": ["best"]
   },
   {
-    "question": "Have you ever completed anything on your “bucket list”?",
-    "tags": ["best"]
-  },
-  {
     "question": "Do you have a favorite plant?",
     "tags": ["best"]
   },
@@ -747,8 +707,8 @@
     "tags": ["personal"]
   },
   {
-    "question": "Are you a cat or a dog person?",
-    "tags": ["quickfire"]
+    "question": "Cats or dogs?",
+    "tags": ["quickfire", "this or that"]
   },
   {
     "question": "What languages do you know how to speak?",
@@ -776,15 +736,11 @@
     "tags": ["awkward", "weird", "quickfire"]
   },
   {
-    "question": "What’s your best scar story?",
-    "tags": ["awkward", "weird"]
-  },
-  {
     "question": "Would you go with aliens if they beamed down to Earth?",
     "tags": ["awkward", "weird"]
   },
   {
-    "question": "Are you sunrise, daylight, twilight, or night? Why?",
+    "question": "Do prefer sunrise, daylight, twilight, or night? Why?",
     "tags": ["awkward", "weird", "quickfire"]
   },
   {
@@ -833,10 +789,6 @@
     "tags": ["if you could"]
   },
   {
-    "question": "If you could be any animal in the world, what animal would you choose to be?",
-    "tags": ["if you could"]
-  },
-  {
     "question": "If you could do anything in the world as your career, what would you do?",
     "tags": ["if you could"]
   },
@@ -846,10 +798,6 @@
   },
   {
     "question": "If you could change places with anyone in the world, who would it be and why?",
-    "tags": ["if you could"]
-  },
-  {
-    "question": "If you could rename yourself, what name would you pick?",
     "tags": ["if you could"]
   },
   {
@@ -943,10 +891,6 @@
   },
   {
     "question": "Would you rather be a superhero or the world’s best chef?",
-    "tags": ["would you rather", "quickfire"]
-  },
-  {
-    "question": "Would you rather be an Olympic gold medalist or an astronaut?",
     "tags": ["would you rather", "quickfire"]
   },
 
@@ -1125,19 +1069,7 @@
     "question": "If you could spend the holidays in any location, where would it be?",
     "tags": ["seasonal", "event-based"]
   },
-  {
-    "question": "Does your family have any holiday traditions?",
-    "tags": ["seasonal", "event-based"]
-  },
 
-  {
-    "question": "What’s your go-to karaoke song?",
-    "tags": ["funny", "lighthearted"]
-  },
-  {
-    "question": "If you could have dinner with any fictional character, who would it be?",
-    "tags": ["funny", "lighthearted"]
-  },
   {
     "question": "What was your favorite TV show as a kid?",
     "tags": ["funny", "lighthearted"]
@@ -1173,10 +1105,6 @@
 
   {
     "question": "What’s a skill you’ve always wanted to learn but never had the time?",
-    "tags": ["creative", "thought-provoking"]
-  },
-  {
-    "question": "If you could invent a new holiday, what would it be called and how would you celebrate it?",
     "tags": ["creative", "thought-provoking"]
   },
   {
@@ -1327,10 +1255,6 @@
     "tags": ["personal"]
   },
   {
-    "question": "What’s the best trip or vacation you’ve ever been on?",
-    "tags": ["personal"]
-  },
-  {
     "question": "What’s a hobby or interest you’ve picked up recently?",
     "tags": ["personal"]
   },
@@ -1422,10 +1346,6 @@
     "tags": ["seasonal", "event-based"]
   },
   {
-    "question": "What’s the best vacation you’ve ever been on?",
-    "tags": ["seasonal", "event-based"]
-  },
-  {
     "question": "If you could take a sabbatical for one month, where would you go and what would you do?",
     "tags": ["seasonal", "event-based"]
   },
@@ -1464,7 +1384,7 @@
   },
   {
     "question": "Pancakes or waffles?",
-    "tags": ["quickfire"]
+    "tags": ["quickfire", "this or that", "food & drink"]
   },
   {
     "question": "Sunrise or sunset?",
@@ -1522,5 +1442,577 @@
   {
     "question": "What’s a global issue you’re passionate about and want to help solve?",
     "tags": ["cultural", "global"]
+  },
+
+  {
+    "question": "What’s a surprising thing on your bucket list?",
+    "tags": ["quick"]
+  },
+  {
+    "question": "What’s the best thing you’ve crossed off your bucket list?",
+    "tags": ["quickfire"]
+  },
+  {
+    "question": "If you could only read one book for the rest of your life, what would it be?",
+    "tags": ["quickfire"]
+  },
+  {
+    "question": "What’s your favorite children’s book?",
+    "tags": ["quickfire"]
+  },
+  {
+    "question": "What’s your go-to coffee order?",
+    "tags": ["quickfire"]
+  },
+  {
+    "question": "What’s your favorite board game?",
+    "tags": ["quickfire"]
+  },
+  {
+    "question": "What’s an underrated kitchen appliance or gadget?",
+    "tags": ["quickfire"]
+  },
+  {
+    "question": "What was your first job?",
+    "tags": ["quickfire"]
+  },
+  {
+    "question": "What’s your favorite room in your house?",
+    "tags": ["quickfire"]
+  },
+  {
+    "question": "What’s the best vacation you’ve ever been on?",
+    "tags": ["quickfire"]
+  },
+  {
+    "question": "What’s your least favorite sport?",
+    "tags": ["quickfire"]
+  },
+  {
+    "question": "What’s your dream car?",
+    "tags": ["quickfire"]
+  },
+  {
+    "question": "What toppings are on your ideal pizza?",
+    "tags": ["quickfire"]
+  },
+  {
+    "question": "What song makes you feel the most nostalgic?",
+    "tags": ["quickfire"]
+  },
+  {
+    "question": "What’s your go-to karaoke song?",
+    "tags": ["quickfire"]
+  },
+  {
+    "question": "What song is most likely to get you on the dance floor?",
+    "tags": ["quickfire"]
+  },
+  {
+    "question": "What format was the first album you purchased? (Cassette, CD, digital)",
+    "tags": ["quickfire"]
+  },
+  {
+    "question": "What smell reminds you most of a specific place or time?",
+    "tags": ["quickfire"]
+  },
+  {
+    "question": "Do you have a lucky number? What is it, and why?",
+    "tags": ["quickfire"]
+  },
+  {
+    "question": "What’s your favorite type of cuisine?",
+    "tags": ["quickfire"]
+  },
+  {
+    "question": "What’s your favorite way to eat potatoes?",
+    "tags": ["quickfire"]
+  },
+  {
+    "question": "If you could have an unlimited supply of one thing, what would it be?",
+    "tags": ["quickfire"]
+  },
+  {
+    "question": "What’s your signature dance move?",
+    "tags": ["quickfire"]
+  },
+  {
+    "question": "What would your personal theme song or walk-on song be?",
+    "tags": ["quickfire"]
+  },
+  {
+    "question": "What’s your favorite dad joke?",
+    "tags": ["quickfire"]
+  },
+  {
+    "question": "What’s your favorite icebreaker question?",
+    "tags": ["quickfire"]
+  },
+
+  {
+    "question": "Salt or pepper?",
+    "tags": ["food & drink", "quickfire", "this or that"]
+  },
+  {
+    "question": "Concert or museum?",
+    "tags": ["quickfire", "this or that"]
+  },
+  {
+    "question": "Hotel or Airbnb?",
+    "tags": ["quickfire", "this or that"]
+  },
+  {
+    "question": "Book or movie?",
+    "tags": ["quickfire", "this or that"]
+  },
+  {
+    "question": "Introvert or extrovert?",
+    "tags": ["quickfire", "this or that"]
+  },
+  {
+    "question": "City or country?",
+    "tags": ["quickfire", "this or that"]
+  },
+  {
+    "question": "Digital or analog?",
+    "tags": ["quickfire", "this or that"]
+  },
+  {
+    "question": "Pen or keyboard?",
+    "tags": ["quickfire", "this or that"]
+  },
+  {
+    "question": "Socks or barefoot?",
+    "tags": ["quickfire", "this or that"]
+  },
+  {
+    "question": "Sweet or savory?",
+    "tags": ["quickfire", "this or that", "food & drink"]
+  },
+  {
+    "question": "Chocolate or vanilla?",
+    "tags": ["quickfire", "this or that", "food & drink"]
+  },
+  {
+    "question": "Phone call or text message?",
+    "tags": ["quickfire", "this or that"]
+  },
+  {
+    "question": "Adventure or relaxation?",
+    "tags": ["quickfire", "this or that"]
+  },
+  {
+    "question": "Comedy or drama?",
+    "tags": ["quickfire", "this or that"]
+  },
+  {
+    "question": "Sneakers or sandals?",
+    "tags": ["quickfire", "this or that"]
+  },
+  {
+    "question": "Card game or board game?",
+    "tags": ["quickfire", "this or that"]
+  },
+  {
+    "question": "Spicy or mild?",
+    "tags": ["quickfire", "this or that", "food & drink"]
+  },
+  {
+    "question": "Restaurant or home-cooked meal?",
+    "tags": ["quickfire", "this or that", "food & drink"]
+  },
+  {
+    "question": "Ice cream cone or cup?",
+    "tags": ["quickfire", "this or that", "food & drink"]
+  },
+
+  {
+    "question": "What’s your best childhood memory?",
+    "tags": ["personal"]
+  },
+  {
+    "question": "Who would your 12-year-old self say is their biggest hero?",
+    "tags": ["personal"]
+  },
+  {
+    "question": "What’s an unexpected life lesson you’ve learned?",
+    "tags": ["personal"]
+  },
+  {
+    "question": "After people and pets, what’s the first thing you’d rescue if (god forbid!) your home was on fire?",
+    "tags": ["personal"]
+  },
+  {
+    "question": "What’s your proudest accomplishment?",
+    "tags": ["personal"]
+  },
+  {
+    "question": "What’s your most irrational fear?",
+    "tags": ["personal"]
+  },
+  {
+    "question": "If you had to live in a different country for a year, which one would you choose?",
+    "tags": ["personal"]
+  },
+  {
+    "question": "What’s your hottest take or most surprising opinion?",
+    "tags": ["personal"]
+  },
+  {
+    "question": "Would you want to know how much time you have left to live?",
+    "tags": ["personal"]
+  },
+  {
+    "question": "What’s a surprising “fun fact” about you?",
+    "tags": ["personal"]
+  },
+  {
+    "question": "If you had to teach a class or give a TED Talk, what would it be about?",
+    "tags": ["personal"]
+  },
+  {
+    "question": "What one day in your life would you most like to relive?",
+    "tags": ["personal"]
+  },
+  {
+    "question": "What’s a cause or charity that means a lot to you?",
+    "tags": ["personal"]
+  },
+  {
+    "question": "What’s your favorite way to spend a day off?",
+    "tags": ["personal"]
+  },
+  {
+    "question": "How would your loved ones describe you in five words?",
+    "tags": ["personal"]
+  },
+  {
+    "question": "What’s your most treasured possession?",
+    "tags": ["personal"]
+  },
+  {
+    "question": "When was the last time you felt inspired to create something?",
+    "tags": ["personal"]
+  },
+  {
+    "question": "What’s one of your nicknames and how did you get it?",
+    "tags": ["personal"]
+  },
+  {
+    "question": "What’s the best compliment you’ve ever received?",
+    "tags": ["personal"]
+  },
+  {
+    "question": "What character traits do you admire?",
+    "tags": ["personal"]
+  },
+  {
+    "question": "What trait are you most proud of in yourself?",
+    "tags": ["personal"]
+  },
+  {
+    "question": "If you could master any skill immediately, what would it be?",
+    "tags": ["personal"]
+  },
+  {
+    "question": "What would you title your memoir?",
+    "tags": ["personal"]
+  },
+  {
+    "question": "What’s a habit you’re trying to break or build?",
+    "tags": ["personal"]
+  },
+  {
+    "question": "Would you rather travel to the past or the future?",
+    "tags": ["personal"]
+  },
+  {
+    "question": "What’s the biggest misconception people have about you?",
+    "tags": ["personal"]
+  },
+  {
+    "question": "What’s your favorite family tradition?",
+    "tags": ["personal"]
+  },
+  {
+    "question": "If you could switch lives with someone for a day, who would you choose?",
+    "tags": ["personal"]
+  },
+  {
+    "question": "What’s one thing you’ve always wanted to try but haven’t yet?",
+    "tags": ["personal"]
+  },
+  {
+    "question": "What advice would you give to your younger self?",
+    "tags": ["personal"]
+  },
+
+  {
+    "question": "What animal do you think best represents your personality?",
+    "tags": ["quirky"]
+  },
+  {
+    "question": "Who would play you in a movie about your life?",
+    "tags": ["quirky"]
+  },
+  {
+    "question": "If you could invent a holiday, what would you celebrate?",
+    "tags": ["quirky"]
+  },
+  {
+    "question": "If you could have any fictional character as a best friend, who would it be?",
+    "tags": ["quirky"]
+  },
+  {
+    "question": "What’s the most bizarre dream you’ve ever had?",
+    "tags": ["quirky"]
+  },
+  {
+    "question": "What’s your favorite way to waste time?",
+    "tags": ["quirky"]
+  },
+  {
+    "question": "If you could be any age for a week, what age would you be?",
+    "tags": ["quirky"]
+  },
+  {
+    "question": "What’s the weirdest (SFW!) thing you’ve ever Googled?",
+    "tags": ["quirky"]
+  },
+  {
+    "question": "What’s your favorite under-the-radar life hack?",
+    "tags": ["quirky"]
+  },
+  {
+    "question": "If you could change your name to anything, what would you choose?",
+    "tags": ["quirky"]
+  },
+  {
+    "question": "What was the last time you laughed really hard?",
+    "tags": ["quirky"]
+  },
+  {
+    "question": "What’s the most unusual thing you’ve ever collected?",
+    "tags": ["quirky"]
+  },
+  {
+    "question": "If you could turn any activity into an Olympic sport, what would you win a gold medal in?",
+    "tags": ["quirky"]
+  },
+  {
+    "question": "What’s the story behind your coolest scar or gnarliest injury?",
+    "tags": ["quirky"]
+  },
+  {
+    "question": "What’s the most unusual thing you’ve ever seen in someone’s home?",
+    "tags": ["quirky"]
+  },
+
+  {
+    "question": "What’s your star sign? Do you think your sign’s characteristics describe your personality?",
+    "tags": ["quirky"]
+  },
+  {
+    "question": "How do you like to celebrate your birthday?",
+    "tags": ["quirky"]
+  },
+  {
+    "question": "What was your most memorable concert experience?",
+    "tags": ["quirky"]
+  },
+  {
+    "question": "What was your most memorable wildlife experience?",
+    "tags": ["quirky"]
+  },
+  {
+    "question": "What would you want your last meal to be?",
+    "tags": ["quirky"]
+  },
+  {
+    "question": "If you won the lottery but didn’t tell anyone, how would your friends and family know?",
+    "tags": ["quirky"]
+  },
+  {
+    "question": "What’s your favorite made-up game you play with your friends or family?",
+    "tags": ["quirky"]
+  },
+  {
+    "question": "What’s a superstitious belief that you believed as a child (or still believe)?",
+    "tags": ["quirky"]
+  },
+  {
+    "question": "What was the first time (or a memorable time) you were frightened by a weather event or natural disaster?",
+    "tags": ["quirky"]
+  },
+  {
+    "question": "What’s the oldest piece of clothing you own? Why do you still wear/keep it?",
+    "tags": ["quirky"]
+  },
+  {
+    "question": "Who in your life (or on your team!) would you trust to take care of you if you were an egg?",
+    "tags": ["quirky"]
+  },
+
+  {
+    "question": "Would you rather have a permanent clown nose or permanent clown shoes?",
+    "tags": ["would you rather"]
+  },
+  {
+    "question": "Would you rather always have to hop on one foot or always have to walk backward?",
+    "tags": ["would you rather"]
+  },
+  {
+    "question": "Would you rather only be able to whisper or only be able to shout?",
+    "tags": ["would you rather"]
+  },
+  {
+    "question": "Would you rather have the ability to talk to animals or speak every human language fluently?",
+    "tags": ["would you rather"]
+  },
+  {
+    "question": "Would you rather have to sing everything you say or dance every time you move?",
+    "tags": ["would you rather"]
+  },
+  {
+    "question": "Would you rather have a personal theme song that plays whenever you enter a room or have a personal mascot that follows you around?",
+    "tags": ["would you rather"]
+  },
+  {
+    "question": "Would you rather be able to instantly master any skill but have to do it in public or be mediocre at everything but always do it in private?",
+    "tags": ["would you rather"]
+  },
+  {
+    "question": "Would you rather be eight feet tall or three feet tall?",
+    "tags": ["would you rather"]
+  },
+
+  {
+    "question": "How did you end up in your current job?",
+    "tags": ["work-related"]
+  },
+  {
+    "question": "If you could have another career, what would it be? ",
+    "tags": ["work-related"]
+  },
+  {
+    "question": "If you could switch roles with anyone at your company, who would it be?",
+    "tags": ["work-related"]
+  },
+  {
+    "question": "What’s the best career advice you’ve ever received?",
+    "tags": ["work-related"]
+  },
+  {
+    "question": "What’s the most memorable moment in your career so far?",
+    "tags": ["work-related"]
+  },
+  {
+    "question": "What’s your go-to productivity playlist or music?",
+    "tags": ["work-related"]
+  },
+  {
+    "question": "If you could change one thing about your job, what would it be?",
+    "tags": ["work-related"]
+  },
+  {
+    "question": "What’s the best work-related book you’ve read?",
+    "tags": ["work-related"]
+  },
+  {
+    "question": "How do you unwind after a busy or stressful day?",
+    "tags": ["work-related"]
+  },
+  {
+    "question": "What’s your favorite way to celebrate a work-related milestone or achievement?",
+    "tags": ["work-related"]
+  },
+  {
+    "question": "What’s your favorite thing about working in your industry?",
+    "tags": ["work-related"]
+  },
+  {
+    "question": "If you could work remotely from anywhere in the world, where would you choose?",
+    "tags": ["work-related"]
+  },
+  {
+    "question": "What’s the biggest misconception about your job?",
+    "tags": ["work-related"]
+  },
+  {
+    "question": "Who is your dream career mentor?",
+    "tags": ["work-related"]
+  },
+  {
+    "question": "If you could automate one part of your job, what would it be?",
+    "tags": ["work-related"]
+  },
+  {
+    "question": "What’s the most rewarding part of your job?",
+    "tags": ["work-related"]
+  },
+  {
+    "question": "What is your most productive time of day?",
+    "tags": ["work-related"]
+  },
+  {
+    "question": "If you could design your perfect office, what would it look like?",
+    "tags": ["work-related"]
+  },
+  {
+    "question": "What’s your favorite quote or mantra that motivates you at work?",
+    "tags": ["work-related"]
+  },
+  {
+    "question": "What’s the most fun project you’ve ever worked on?",
+    "tags": ["work-related"]
+  },
+
+  {
+    "question": "What’s something the team would know about you if we spent time in person?",
+    "tags": ["work-related", "virtual", "team-building"]
+  },
+  {
+    "question": "What’s one thing that’s always on your desk?",
+    "tags": ["work-related", "virtual", "team-building"]
+  },
+  {
+    "question": "What’s your favorite way to spend a break during the workday?",
+    "tags": ["work-related", "virtual", "team-building"]
+  },
+  {
+    "question": "Do you have any pet colleagues?",
+    "tags": ["work-related", "virtual", "team-building"]
+  },
+  {
+    "question": "What’s the funniest thing that’s happened during a video call?",
+    "tags": ["work-related", "virtual", "team-building"]
+  },
+  {
+    "question": "What’s your favorite way to end or start the workday?",
+    "tags": ["work-related", "virtual", "team-building"]
+  },
+  {
+    "question": "What’s something we’d be surprised to find in your office?",
+    "tags": ["work-related", "virtual", "team-building"]
+  },
+  {
+    "question": "What’s your go-to lunch or workday snack?",
+    "tags": ["work-related", "virtual", "team-building"]
+  },
+  {
+    "question": "What’s your favorite or most-used emoji?",
+    "tags": ["work-related", "virtual", "team-building"]
+  },
+  {
+    "question": "Where’s the best spot you’ve ever worked remotely?",
+    "tags": ["work-related", "virtual", "team-building"]
+  },
+  {
+    "question": "What’s your go-to music or background noise while working?",
+    "tags": ["work-related", "virtual", "team-building"]
+  },
+  {
+    "question": "What’s your favorite perk of remote work?",
+    "tags": ["work-related", "virtual", "team-building"]
   }
 ]
