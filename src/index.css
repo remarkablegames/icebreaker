@@ -1,1 +1,11 @@
 @import 'tailwindcss';
+
+.github-corner > svg {
+  fill: darkslategray !important;
+  opacity: 0.2;
+  transition: opacity 0.4s;
+}
+
+.github-corner:hover > svg {
+  opacity: 1;
+}
