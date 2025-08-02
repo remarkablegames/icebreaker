@@ -2,7 +2,17 @@
 
 [![build](https://github.com/remarkablegames/icebreaker/actions/workflows/build.yml/badge.svg)](https://github.com/remarkablegames/icebreaker/actions/workflows/build.yml)
 
-🧊 Icebreaker questions
+🧊 Icebreaker questions:
+
+- [remarkablegames](https://remarkablegames.org/icebreaker/)
+
+## Resources
+
+- [Ice Breaker Questions](https://www.mtu.edu/student-leadership/student-orgs/rso-resources/virtual-resources/fun-icebreaking-questions.pdf)
+- [The Only List of Icebreaker Questions You’ll Ever Need](https://museumhack.com/list-icebreakers-questions/)
+- [100 top icebreaker questions for work](https://www.achievers.com/blog/icebreaker-questions-for-work/)
+- [Bookmark this blog: 148 icebreaker questions you’ll keep coming back to](https://www.atlassian.com/blog/teamwork/icebreaker-questions)
+- [100 icebreaker questions to get the conversation started](https://www.mural.co/blog/icebreaker-questions)
 
 ## Install
 
