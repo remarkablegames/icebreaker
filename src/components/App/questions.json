@@ -50,5 +50,340 @@
   {
     "question": "If you had to delete all but three apps from your smartphone, which ones would you keep?",
     "tags": ["quirky"]
+  },
+
+  {
+    "question": "If you were a vegetable, what vegetable would you be and why?",
+    "tags": ["food & drink"]
+  },
+  {
+    "question": "If you had to eat one meal every day for the rest of your life what would it be?",
+    "tags": ["food & drink"]
+  },
+  {
+    "question": "Coffee or tea?",
+    "tags": ["food & drink"]
+  },
+  {
+    "question": "What’s the weirdest food you’ve ever eaten?",
+    "tags": ["food & drink"]
+  },
+  {
+    "question": "How do you like your eggs?",
+    "tags": ["food & drink"]
+  },
+  {
+    "question": "What are your three favorite foods?",
+    "tags": ["food & drink"]
+  },
+  {
+    "question": "What is your favorite meal to cook and why?",
+    "tags": ["food & drink"]
+  },
+  {
+    "question": "What’s your favorite breakfast cereal?",
+    "tags": ["food & drink"]
+  },
+  {
+    "question": "Favorite grocery item while shopping locally?",
+    "tags": ["food & drink"]
+  },
+  {
+    "question": "What is your favorite restaurant?",
+    "tags": ["food & drink"]
+  },
+  {
+    "question": "What is your favorite candy or treat?",
+    "tags": ["food & drink"]
+  },
+  {
+    "question": "Sweet, salty, or sour?",
+    "tags": ["food & drink"]
+  },
+  {
+    "question": "What is something you are great at cooking?",
+    "tags": ["food & drink"]
+  },
+  {
+    "question": "What is something you can’t cook?",
+    "tags": ["food & drink"]
+  },
+  {
+    "question": "What is your favorite dessert?",
+    "tags": ["food & drink"]
+  },
+  {
+    "question": "If you could eliminate one food so no one could eat it ever again, what would you destroy?",
+    "tags": ["food & drink"]
+  },
+  {
+    "question": "What is your favorite breakfast? Lunch? Dinner?",
+    "tags": ["food & drink"]
+  },
+
+  {
+    "question": "What’s the best piece of advice you have ever been given?",
+    "tags": ["personal"]
+  },
+  {
+    "question": "If you had to teach a class on one thing, what would you teach?",
+    "tags": ["personal"]
+  },
+  {
+    "question": "If you could eliminate one thing from your daily routine, what would it be and why?",
+    "tags": ["personal"]
+  },
+  {
+    "question": "Would you rather be the funniest or smartest person in the room?",
+    "tags": ["personal"]
+  },
+  {
+    "question": "What’s the best advice you’ve ever heard?",
+    "tags": ["personal"]
+  },
+  {
+    "question": "What would you like to be known/remembered for?",
+    "tags": ["personal"]
+  },
+  {
+    "question": "What sport would you compete in if you were in the Olympics?",
+    "tags": ["personal"]
+  },
+  {
+    "question": "What would you like to do when you retire?",
+    "tags": ["personal"]
+  },
+  {
+    "question": "What is the best perk you have ever enjoyed at a job?",
+    "tags": ["personal"]
+  },
+  {
+    "question": "If you could magically become fluent in any language, what would it be?",
+    "tags": ["personal"]
+  },
+  {
+    "question": "What is your favorite time of the day and why?",
+    "tags": ["personal"]
+  },
+
+  {
+    "question": "Are you sunrise, daylight, twilight, or night? Please share why you picked your time of day.",
+    "tags": ["general"]
+  },
+  {
+    "question": "Are you summer, fall, spring, or winter? Please share why.",
+    "tags": ["general"]
+  },
+  {
+    "question": "If you could pick up a new skill in an instant what would it be and why?",
+    "tags": ["general"]
+  },
+  {
+    "question": "Do you have a favorite charity you wish more people knew about?",
+    "tags": ["general"]
+  },
+  {
+    "question": "What skill do you think everyone should have?",
+    "tags": ["general"]
+  },
+  {
+    "question": "How would you change your life today if the average life expectancy was 400 years?",
+    "tags": ["general"]
+  },
+
+  {
+    "question": "If you could be in any movie, what would it be and what character would you play?",
+    "tags": ["entertainment"]
+  },
+  {
+    "question": "Which actor would you want to play you in the movie about your life?",
+    "tags": ["entertainment"]
+  },
+  {
+    "question": "If you were a wrestler what would be your entrance theme song?",
+    "tags": ["entertainment"]
+  },
+  {
+    "question": "If you were a superhero what would your name be?",
+    "tags": ["entertainment"]
+  },
+  {
+    "question": "If you were a superhero what would your superpower be and why?",
+    "tags": ["entertainment"]
+  },
+  {
+    "question": "What fictional world or place would you like to visit?",
+    "tags": ["entertainment"]
+  },
+  {
+    "question": "What is your favorite TV show?",
+    "tags": ["entertainment"]
+  },
+  {
+    "question": "What are you reading right now?",
+    "tags": ["entertainment"]
+  },
+  {
+    "question": "What book did you read that changed your life the most?",
+    "tags": ["entertainment"]
+  },
+  {
+    "question": "What movie have you seen recently that you would recommend and why?",
+    "tags": ["entertainment"]
+  },
+  {
+    "question": "What is your favorite sport to watch and why?",
+    "tags": ["entertainment"]
+  },
+  {
+    "question": "If you could see one movie again for the first time, what would it be and why?",
+    "tags": ["entertainment"]
+  },
+  {
+    "question": "If you had to play one album forever which one would it be?",
+    "tags": ["entertainment"]
+  },
+  {
+    "question": "Which song can you listen to all day long?",
+    "tags": ["entertainment"]
+  },
+
+  {
+    "question": "What is your favorite hobby?",
+    "tags": ["hobby"]
+  },
+  {
+    "question": "What is your favorite thing to do by yourself?",
+    "tags": ["hobby"]
+  },
+  {
+    "question": "What is your favorite sport or physical activity?",
+    "tags": ["hobby"]
+  },
+  {
+    "question": "What crazy activities do you dream of trying someday?",
+    "tags": ["hobby"]
+  },
+  {
+    "question": "What is your idea of fun?",
+    "tags": ["hobby"]
+  },
+  {
+    "question": "What two things do you consider yourself to be very good at?",
+    "tags": ["hobby"]
+  },
+  {
+    "question": "What two things do you consider yourself to be very bad at?",
+    "tags": ["hobby"]
+  },
+  {
+    "question": "If money and time were no object, what would you be doing right now?",
+    "tags": ["hobby"]
+  },
+  {
+    "question": "What is something you hate doing? Why?",
+    "tags": ["hobby"]
+  },
+  {
+    "question": "What is something you love doing? Why",
+    "tags": ["hobby"]
+  },
+  {
+    "question": "Do you have any hidden talents? What can you do?",
+    "tags": ["hobby"]
+  },
+  {
+    "question": "What was one new experience you tried that was completely unknown or uncomfortable to you at the time you tried it?",
+    "tags": ["hobby"]
+  },
+
+  {
+    "question": "Have you ever been out of the country?",
+    "tags": ["have you ever"]
+  },
+  {
+    "question": "Have you ever ridden on a motorcycle?",
+    "tags": ["have you ever"]
+  },
+  {
+    "question": "Have you ever lived in another state?",
+    "tags": ["have you ever"]
+  },
+  {
+    "question": "Have you ever met a celebrity?",
+    "tags": ["have you ever"]
+  },
+  {
+    "question": "Have you ever been to Disney Land or Disney World?",
+    "tags": ["have you ever"]
+  },
+  {
+    "question": "Have you ever planted a garden?",
+    "tags": ["have you ever"]
+  },
+  {
+    "question": "Have you ever experienced a natural disaster like a hurricane or tornado?",
+    "tags": ["have you ever"]
+  },
+  {
+    "question": "Have you ever won a contest?",
+    "tags": ["have you ever"]
+  },
+  {
+    "question": "Have you ever eaten a whole pizza by yourself?",
+    "tags": ["have you ever"]
+  },
+  {
+    "question": "Have you ever done any extreme sports like skydiving or bungee jumping?",
+    "tags": ["have you ever"]
+  },
+
+  {
+    "question": "Where would you time-travel, if it were possible?",
+    "tags": ["sci-fi"]
+  },
+  {
+    "question": "If you could have a superpower, what would it be and why?",
+    "tags": ["sci-fi"]
+  },
+  {
+    "question": "If you were the captain of a pirate ship, what would be the name of your ship?",
+    "tags": ["sci-fi"]
+  },
+  {
+    "question": "If you could travel to any other planet (real or fictional), where would you go and why?",
+    "tags": ["sci-fi"]
+  },
+  {
+    "question": "What is your favorite movie?",
+    "tags": ["sci-fi"]
+  },
+  {
+    "question": "Who is your favorite actor/actress?",
+    "tags": ["sci-fi"]
+  },
+  {
+    "question": "What is your favorite book?",
+    "tags": ["sci-fi"]
+  },
+  {
+    "question": "What is your favorite tv series?",
+    "tags": ["sci-fi"]
+  },
+  {
+    "question": "What show on Netflix did you binge watch embarrassingly fast?",
+    "tags": ["sci-fi"]
+  },
+  {
+    "question": "If you could be any fictional character, who would you be?",
+    "tags": ["sci-fi"]
+  },
+  {
+    "question": "What type of music do you listen to?",
+    "tags": ["sci-fi"]
+  },
+  {
+    "question": "What movie can you rewatch over and over again?",
+    "tags": ["sci-fi"]
   }
 ]
