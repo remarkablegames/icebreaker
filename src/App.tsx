@@ -20,7 +20,7 @@ export default function App() {
       <br />
 
       <button
-        class="cursor-pointer rounded-full border border-blue-500 p-2.5 text-blue-700 hover:bg-blue-100 hover:text-white focus:ring-4 focus:ring-blue-100 focus:outline-none"
+        class="cursor-pointer rounded-full border border-blue-500 p-2.5 text-blue-700 hover:bg-blue-100 hover:text-white focus:ring-4 focus:ring-blue-100 focus:outline-none dark:hover:bg-blue-700 dark:focus:ring-blue-900"
         onClick={() => {
           let _question = question;
           while (_question === question) {
